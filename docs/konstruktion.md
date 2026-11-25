@@ -68,3 +68,4 @@ Gedruckt wird in der exportierten Lage: Laschen flach auf dem Bett, offene Seite
 ## Änderungsprotokoll
 
 - 2026-11-25: Erste Version. Halter mit offener Tischseite, Schlitz vorne, Kabelkanal hinten, zwei Laschen.
+- 2026-11-25: Anleitung `docs/freecad-einstieg.md` ergänzt (Nachbau in FreeCAD, nicht in FreeCAD durchgespielt).

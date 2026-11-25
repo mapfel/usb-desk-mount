@@ -10,6 +10,7 @@
 |---|---|
 | `docs/auftrag.md` | Aufgabenstellung, gemessene Maße, Anforderungen |
 | `docs/konstruktion.md` | Konstruktionsentscheidungen, Parameter, Annahmen, Ausbaustufen |
+| `docs/freecad-einstieg.md` | Anleitung: Halter in FreeCAD nachbauen und mit dem STEP vergleichen |
 | `src/usb_cage.py` | Parametrisches CadQuery-Modell, exportiert STEP und STL |
 | `src/check_fit.py` | Passprüfung mit einer Attrappe der Buchse, Mesh-Check |
 | `models/` | Exportierte Dateien (`usb_halter.stl`, `usb_halter.step`) |
